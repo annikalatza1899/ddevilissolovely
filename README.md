@@ -1,5 +1,3 @@
-Hi, I’m Annie and through my studies in biology I kinda drifted into the world of programming by accident. I have done some coding with Python and Java, but am still a beginner 
-and would like to learn so much more in the future 
 
 
 <!---
